@@ -1,0 +1,58 @@
+body {
+  font-family: system-ui, sans-serif;
+  padding: 2rem;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+input[type="search"] {
+  width: 100%;
+  max-width: 400px;
+  padding: 0.5rem;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  margin-bottom: 2rem;
+}
+
+caption {
+  caption-side: top;
+  font-size: 1.4rem;
+  margin-bottom: 1rem;
+  font-weight: bold;
+}
+
+th, td {
+  padding: 0.75rem;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+thead {
+  background-color: #f1f1f1;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #fafafa;
+}
+
+#htmlTable caption,
+#flexTable caption,
+#cssTable caption {
+  margin-top: 2rem;
+}
+
+code {
+  font-family: monospace;
+  background: #f4f4f4;
+  padding: 0.1rem 0.3rem;
+  border-radius: 4px;
+}
