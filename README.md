@@ -25,14 +25,6 @@ Een overzichtelijke en interactieve HTML/CSS-cheatsheet voor dagelijks gebruik. 
 
 ---
 
-## Uitbreiden
-
-- Voeg meer CSS properties toe (zoals grid, media queries)
-- Voeg JavaScript snippets toe in een aparte sectie
-- Maak een dark mode toggle (via JS/CSS)
-
----
-
 ## Licentie
 
 Vrij te gebruiken voor educatieve doeleinden. Geen rechten voorbehouden.
