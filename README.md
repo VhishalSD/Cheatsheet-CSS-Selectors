@@ -6,7 +6,7 @@ Een overzichtelijke HTML/CSS-cheatsheet. Deze cheatsheet bevat:
 -  Veelgebruikte HTML-tags met uitleg en voorbeelden
 -  CSS Flexbox properties
 -  Zoekfunctie over alle tabellen
--  Gestyledd via een aparte CSS-file
+-  Gestyled via een aparte CSS-file
 
 ---
 
